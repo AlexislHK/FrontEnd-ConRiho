@@ -1,103 +1,103 @@
 {
-  "hash": "5e2d2323",
-  "configHash": "144e3adc",
-  "lockfileHash": "49dcbf4d",
-  "browserHash": "18523034",
+  "hash": "f5284acb",
+  "configHash": "bf15e22f",
+  "lockfileHash": "b21aaea1",
+  "browserHash": "f11d70bb",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "e6c0c6a9",
+      "fileHash": "f4c5a12f",
       "needsInterop": false
     },
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "65bbd528",
+      "fileHash": "4354b02e",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "c95fa9ed",
+      "fileHash": "0cb49310",
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
-      "fileHash": "7105cf23",
+      "fileHash": "cef49e00",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "68228a07",
+      "fileHash": "e9b1989d",
       "needsInterop": false
     },
     "@angular/platform-browser/animations": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
       "file": "@angular_platform-browser_animations.js",
-      "fileHash": "c73c64a0",
+      "fileHash": "6414de96",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "fdb12f2e",
+      "fileHash": "e726479b",
       "needsInterop": false
     },
     "@ng-bootstrap/ng-bootstrap": {
       "src": "../../../../../node_modules/@ng-bootstrap/ng-bootstrap/fesm2022/ng-bootstrap.mjs",
       "file": "@ng-bootstrap_ng-bootstrap.js",
-      "fileHash": "c14c1cf2",
+      "fileHash": "b6e9088f",
       "needsInterop": false
     },
     "@ngx-translate/core": {
       "src": "../../../../../node_modules/@ngx-translate/core/dist/fesm2022/ngx-translate-core.mjs",
       "file": "@ngx-translate_core.js",
-      "fileHash": "1abf1a15",
+      "fileHash": "0eb054c3",
       "needsInterop": false
     },
     "@ngx-translate/http-loader": {
       "src": "../../../../../node_modules/@ngx-translate/http-loader/dist/fesm2022/ngx-translate-http-loader.mjs",
       "file": "@ngx-translate_http-loader.js",
-      "fileHash": "9d2583bd",
+      "fileHash": "fc7309bf",
       "needsInterop": false
     },
     "angular-calendar": {
       "src": "../../../../../node_modules/angular-calendar/fesm2020/angular-calendar.mjs",
       "file": "angular-calendar.js",
-      "fileHash": "4946fc49",
+      "fileHash": "0606fc6f",
       "needsInterop": false
     },
     "angular-calendar/date-adapters/date-fns": {
       "src": "../../../../../node_modules/angular-calendar/date-adapters/esm/date-fns/index.js",
       "file": "angular-calendar_date-adapters_date-fns.js",
-      "fileHash": "cb3e6de9",
+      "fileHash": "be67acef",
       "needsInterop": false
     },
     "feather-icons": {
       "src": "../../../../../node_modules/feather-icons/dist/feather.js",
       "file": "feather-icons.js",
-      "fileHash": "9346c09f",
+      "fileHash": "7fd12153",
       "needsInterop": true
     },
     "rxjs": {
       "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
       "file": "rxjs.js",
-      "fileHash": "9dd8c4dc",
+      "fileHash": "cce55479",
       "needsInterop": false
     },
     "rxjs/internal/BehaviorSubject": {
       "src": "../../../../../node_modules/rxjs/dist/esm5/internal/BehaviorSubject.js",
       "file": "rxjs_internal_BehaviorSubject.js",
-      "fileHash": "773ce06f",
+      "fileHash": "19435696",
       "needsInterop": false
     },
     "rxjs/operators": {
       "src": "../../../../../node_modules/rxjs/dist/esm5/operators/index.js",
       "file": "rxjs_operators.js",
-      "fileHash": "1d88eaa5",
+      "fileHash": "d18c890a",
       "needsInterop": false
     }
   },

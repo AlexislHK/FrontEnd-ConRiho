@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
-import { FormBuilder, FormGroup, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
+import { ControlContainer, FormBuilder, FormControlName, FormGroup, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
 import { Router, RouterModule } from '@angular/router';
 import { FeathericonComponent } from '../../shared/component/feathericon/feathericon.component';
 
@@ -28,23 +28,29 @@ export class LoginComponent {
     });
 
   }
+
   showPassword() {
     this.show = !this.show;
   }
 
   // Simple Login
   login() {
-    if (this.loginForm.value["email"] == "Test@gmail.com" && this.loginForm.value["password"] == "test123") {
-      let user = {
-        email: "Test@gmail.com",
-        password: "test123",
-        name: "test user",
-      };
-
-      localStorage.setItem("user", JSON.stringify(user));
-      // this.router.navigate(["/dashboard/default"]);
-      this.router.navigate(["/pages/sample-page1"]);
+    if(this.loginForm.valid){
+      
     }
+
+
+    // if (this.loginForm.value["email"] == "Test@gmail.com" && this.loginForm.value["password"] == "test123") {
+    //   let user = {
+    //     email: "Test@gmail.com",
+    //     password: "test123",
+    //     name: "test user",
+    //   };
+
+    //   localStorage.setItem("user", JSON.stringify(user));
+    //   // this.router.navigate(["/dashboard/default"]);
+    //   this.router.navigate(["/pages/sample-page1"]);
+    // }
   }
 
 
