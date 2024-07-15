@@ -55,7 +55,7 @@ export class LoginComponent {
           },
           complete:()=>{
             console.log('el login esta completo.');
-            this.router.navigate(["/pages/sample-page1"]);
+            this.router.navigate(["/sample-page"]);
             // this.loginForm.reset();
           }
         })

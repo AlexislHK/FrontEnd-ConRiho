@@ -11,7 +11,7 @@ export const routes: Routes = [
     },
     {
         path: '',
-        redirectTo: '/pages/sample-page1',
+        redirectTo: '/sample-page',
         pathMatch: 'full'
     }, 
     {
